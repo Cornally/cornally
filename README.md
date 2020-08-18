@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### ⚡ Recent scribbles, just for you!
 [ReactJS — The Ultimate SVG Icon Workflow](https://medium.com/@cornally/reactjs-the-ultimate-svg-icon-workflow-518d55011298)
 
