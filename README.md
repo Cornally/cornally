@@ -3,8 +3,8 @@
 
 ### 2. Hackathon Projects 🔭 
 - 2.1 Audify — Product Hunt Global Hackathon Winner (ML/AI Category) where editorial and news content was summarized then transcribed to audio by way of AWS Poly.
-  - [Audify VueJS WebApp](https://www.youtube.com/watch?v=tlOpgN6MCeo)
   - [Audify Origin Story](https://www.youtube.com/watch?v=G1XqsqzMh_M)
+  - [Audify VueJS WebApp](https://www.youtube.com/watch?v=tlOpgN6MCeo)
   - [Product Hunt Global Hackathon Winners](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)
 - 2.2 Hype Cards — Twitch Extension built in React & ThreeJS (WebXR-enabled!), leveraging Fortnite game data (No longer available due to deprecated game API, *womp womp*)
   - [Hype Cards Origin Story](https://www.youtube.com/watch?v=oCZOURSzEPQ)
