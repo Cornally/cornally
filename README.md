@@ -2,7 +2,7 @@
 [1.1 ReactJS — The Ultimate SVG Icon Workflow](https://medium.com/@cornally/reactjs-the-ultimate-svg-icon-workflow-518d55011298)
 
 ### 2. Hackathon Projects 🔭 
-- 2.1 Audify — Product Hunt Global Hackathon Winner (ML/AI Category), article content was summarized and transcribed into audio by way of AWS Poly.
+- 2.1 Audify — Product Hunt Global Hackathon Winner (ML/AI Category) where editorial and news content was summarized then transcribed to audio by way of AWS Poly.
   - [Audify VueJS WebApp](https://www.youtube.com/watch?v=tlOpgN6MCeo)
   - [Audify Origin Story](https://www.youtube.com/watch?v=G1XqsqzMh_M)
   - [Product Hunt Global Hackathon Winners](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)
