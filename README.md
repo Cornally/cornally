@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### ⚡ Recent scribbles, just for you!
+[ReactJS — The Ultimate SVG Icon Workflow](https://medium.com/@cornally/reactjs-the-ultimate-svg-icon-workflow-518d55011298)
+
+---
+
+#### ✨ Musings, because I've got range.
+[Smart (enough) watches](https://medium.com/@cornally/smart-enough-watches-99ffa0f5c42b)
+
 <!--
 **Cornally/cornally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
