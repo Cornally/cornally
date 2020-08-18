@@ -11,7 +11,8 @@
   - [Oculus Quest Test Footage](https://www.youtube.com/watch?v=HTC9_2G8-dU)
 
 ### 3. Musings ✨
-[3.1 Smart (enough) watches](https://medium.com/@cornally/smart-enough-watches-99ffa0f5c42b)
+- [3.1 Smart (enough) watches](https://medium.com/@cornally/smart-enough-watches-99ffa0f5c42b)
+- [3.2 Legacy 3D portfolio](https://www.youtube.com/watch?v=zcLaqxcwdgo)
 
 <!--
 **Cornally/cornally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
