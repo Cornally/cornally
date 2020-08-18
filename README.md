@@ -6,7 +6,7 @@
   - [Audify VueJS WebApp](https://www.youtube.com/watch?v=tlOpgN6MCeo)
   - [Audify Origin Story](https://www.youtube.com/watch?v=G1XqsqzMh_M)
   - [Product Hunt Global Hackathon Winners](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)
-- 2.2 Hype Cards — ThreeJS + WebXR + Fortnite Statistics (No longer active due to deprecated game API, *womp womp*)
+- 2.2 Hype Cards — WebXR-enabled Twitch Extension built in ThreeJS, leveraging Fortnite game data (No longer available due to deprecated game API, *womp womp*)
   - [Hype Cards Origin Story](https://www.youtube.com/watch?v=oCZOURSzEPQ)
   - [Oculus Quest Test Footage](https://www.youtube.com/watch?v=HTC9_2G8-dU)
 
