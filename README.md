@@ -1,10 +1,14 @@
-#### ⚡ Recent scribbles, just for you!
-[ReactJS — The Ultimate SVG Icon Workflow](https://medium.com/@cornally/reactjs-the-ultimate-svg-icon-workflow-518d55011298)
+### 1. Recent Scribbles  ⚡
+[1.1 ReactJS — The Ultimate SVG Icon Workflow](https://medium.com/@cornally/reactjs-the-ultimate-svg-icon-workflow-518d55011298)
 
----
+### 2. Projects 🔭 
+- 2.1 Audify — Product Hunt Global Hackathon Winner (ML/AI Category)
+  - [Audify VueJS WebApp](https://www.youtube.com/watch?v=tlOpgN6MCeo)
+  - [Audify Origin Story](https://www.youtube.com/watch?v=G1XqsqzMh_M)
+  - [Product Hunt Global Hackathon Winners](https://blog.producthunt.com/winners-of-the-product-hunt-global-hackathon-2017-e2bad6adda39)
 
-#### ✨ Musings, because I've got range.
-[Smart (enough) watches](https://medium.com/@cornally/smart-enough-watches-99ffa0f5c42b)
+### 3. Musings ✨
+[3.1 Smart (enough) watches](https://medium.com/@cornally/smart-enough-watches-99ffa0f5c42b)
 
 <!--
 **Cornally/cornally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
