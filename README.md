@@ -1,6 +1,6 @@
 ### 1. Recent Scribbles  ⚡
-[1.1 ReactJS — The Ultimate SVG Icon Workflow](https://medium.com/@cornally/reactjs-the-ultimate-svg-icon-workflow-518d55011298)
-[1.2 ReactJS - Starter GIST] (https://gist.github.com/Cornally/120781816f9447de6423297ebcf80c1d)
+- [1.1 ReactJS — The Ultimate SVG Icon Workflow](https://medium.com/@cornally/reactjs-the-ultimate-svg-icon-workflow-518d55011298)
+- [1.2 ReactJS — Starter GIST 2020](https://gist.github.com/Cornally/120781816f9447de6423297ebcf80c1d)
 
 ### 2. Hackathon Projects 🔭 
 - 2.1 Audify — Product Hunt Global Hackathon Winner (ML/AI Category) where editorial and news content was summarized then transcribed to audio by way of AWS Poly.
